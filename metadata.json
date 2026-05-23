@@ -1,0 +1,6 @@
+{
+  "name": "Aprende Español: Verbos Reflexivos",
+  "description": "Իսպաներենի անդրադարձ բայերի ինտերակտիվ ուսուցման հավելված (իսպաներեն-հայերեն)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
